@@ -39,8 +39,8 @@ Recommended: Machine Learning with Python for Everyone, Addison Wesley Data & An
 A comprehensive journey through data science and machine learning. This graduate course serves as a holistic introduction, focusing on essential algorithms, data science methodologies, and the complete data processing lifecycle.
 
 ### Structure
-- [Supervised Learning](https://github.com/Jghamdi/INDE577_Repo/tree/main/Supervised%20Learning) : This section encompasses algorithms and models trained on labeled datasets, including regression and classification techniques. This directory should include subdirectories for the following algorithms:
-    -[Perceptron Algorithm](https://github.com/Jghamdi/INDE577_Repo/blob/b2c1d6c0c6fcd19a66f66b30e8413be06797dc8c/Supervised%20Learning/Perceptron%20Algorithm)
+- [Supervised Learning](https://github.com/Jghamdi/INDE577_Repo/tree/main/Supervised%20Learning) : This section encompasses algorithms and models trained on labeled datasets, including regression and classification techniques. This directory should include subdirectories for the following algorithms:  
+    - [Perceptron Algorithm](https://github.com/Jghamdi/INDE577_Repo/blob/b2c1d6c0c6fcd19a66f66b30e8413be06797dc8c/Supervised%20Learning/Perceptron%20Algorithm)
     - [Gradient Descent](https://github.com/Jghamdi/INDE577_Repo/blob/main/Supervised%20Learning/Gradient%20Descent)
     - [Linear Regression](https://github.com/Jghamdi/INDE577_Repo/tree/main/Supervised%20Learning/Gradient%20Descent%20Algorithm)
     - [Logistic Regression](https://github.com/Jghamdi/INDE577_Repo/tree/main/Supervised%20Learning/Logistic%20Regression%20Algorithm)
