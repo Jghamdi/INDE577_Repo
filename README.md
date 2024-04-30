@@ -48,10 +48,11 @@ A comprehensive journey through data science and machine learning. This graduate
     - [K-Nearest Neighbors (KNN)](https://github.com/Jghamdi/INDE577_Repo/tree/main/Supervised%20Learning/K-Nearest%20Neighbors%20(KNN))
     - [Decision Trees](https://github.com/Jghamdi/INDE577_Repo/tree/main/Supervised%20Learning/Decision%20Trees)
     - [Ensemble Methods](https://github.com/Jghamdi/INDE577_Repo/tree/main/Supervised%20Learning/Ensemble%20Methods)
-- **Unsupervised Learning** : Here, you'll find implementations of algorithms designed to extract patterns and structures from unlabeled data, such as clustering and dimensionality reduction methods. This directory should be similarly structured with examples relevant to unsupervised learning, including:
-    - [K-Means Clustering]
-    - [Principal Component Analysis (PCA)]
-    - [Density-Based Spatial Clustering of Applications with Noise (DBSCAN)]
+- [Unsupervised Learning](https://github.com/Jghamdi/INDE577_Repo/tree/main/Unsupervised%20learning) : Here, you'll find implementations of algorithms designed to extract patterns and structures from unlabeled data, such as clustering and dimensionality reduction methods. This directory should be similarly structured with examples relevant to unsupervised learning, including:
+    - [K-Means Clustering](https://github.com/Jghamdi/INDE577_Repo/tree/main/Unsupervised%20learning)
+    - [Principal Component Analysis (PCA)](https://github.com/Jghamdi/INDE577_Repo/tree/main/Unsupervised%20learning)
+    - [Density-Based Spatial Clustering of Applications with Noise (DBSCAN)](https://github.com/Jghamdi/INDE577_Repo/tree/main/Unsupervised%20learning)
+    
 
 For any inquiries or feedback, please feel free to reach out to me:
 
