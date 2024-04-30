@@ -5,7 +5,7 @@
 Unsupervised learning is a machine learning technique where only input data (X) is available without corresponding output labels. The goal is to discover patterns and structures within the data without external guidance. Key challenges include the absence of true labels for comparison of model performance.   
 
 <p align="center">
-    <img src="ML.jpeg" width="700" hight ="800">
+    <img src="unsupervised learning.jpeg" width="700" hight ="800">
 </p>
   
 
